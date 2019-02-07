@@ -29,29 +29,29 @@ export class AppComponent implements OnInit {
 
 	allQuestions: any = [{
 		"id": 1,
-		"question": "What is the capital of Belgium?",
-		"a": "Vienna",
-		"b": "Berlin",
-		"c": "Brussels",
-		"d": "Prague",
+		"question": "how you feeling today?",
+		"a": "Good",
+		"b": "Bad",
+		"c": "Neutral",
+		"d": "Very Bad",
 		"answer": "c"
 	},
 	{
 		"id": 2,
-		"question": "What is the capital of Australia?",
-		"a": "Vienna",
-		"b": "Canberra",
-		"c": "Brussels",
-		"d": "Prague",
+		"question": "How was the day at work?",
+		"a": "good",
+		"b": "Neutral",
+		"c": "Bad",
+		"d": "Terible",
 		"answer": "b"
 	},
 	{
 		"id": 3,
-		"question": "What is the capital of Bulgaria?",
-		"a": "Vienna",
-		"b": "Sofia",
-		"c": "Brussels",
-		"d": "Prague",
+		"question": "How solo trip sounds to you?",
+		"a": "Fantastic",
+		"b": "sounds good",
+		"c": "bad",
+		"d": "very bad",
 		"answer": "b"
 	}
 	];
